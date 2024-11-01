@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E9E8C6B3-BB96-4D64-B337-985D3BC9351D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF5147F0-76D8-4294-BE62-AA6D66344F48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DownloadManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "BF5147F0-76D8-4294-BE62-AA6D66344F48 - becbcf51ddc0a385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloaderApp.DownloadManager.__allocating_init() -&gt; downloaderApp.DownloadManager"
+                  moduleName = "downloaderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/ios-app/downloaderApp/DownloadManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "BF5147F0-76D8-4294-BE62-AA6D66344F48 - bf80c844cd074bc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloaderApp.DownloadManager.init() -&gt; downloaderApp.DownloadManager"
+                  moduleName = "downloaderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/ios-app/downloaderApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "BF5147F0-76D8-4294-BE62-AA6D66344F48 - cec4507d2366679b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloaderApp.DownloadManager.__deallocating_deinit"
+                  moduleName = "downloaderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abbas/Desktop/ios-app/downloaderApp/DownloadManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
